@@ -1,64 +1,80 @@
 # 👋 Hi, I’m Akash Kumar
 
-Aspiring Big Data & Software Developer | Python, Data Analysis, Web Projects
+Aspiring Software & Data Analyst | Python Developer  
+I build *real projects with outcomes* — not just code snippets.
 
-I build real solutions — not just code snippets. I’m currently sharpening my data science, Python, and web-analysis skills with practical projects that solve real problems.
-
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Languages
-Python | SQL | Bash/Shell
-
-### 🔹 Data & Analytics
-Pandas | NumPy | Matplotlib | Seaborn
-
-### 🔹 Tools
-VS Code | Git & GitHub
+I’m focused on data science, practical Python, and problem-solving code that you can run and explore.
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Core Skills
+
+### 🔹 Languages  
+**Python • SQL • Shell Script**
+
+### 🔹 Analytics & Tools  
+**Pandas • NumPy • Matplotlib • Seaborn • Git & GitHub**
+
+### 🔹 Work Style  
+Clean code • meaningful commits • reproducible results • documented projects
+
+---
+
+## 📌 Featured Projects
 
 ### 🧠 Multiple-Disease-Prediction-System
-A Jupyter Notebook project that uses real medical datasets for predictive modeling.  
-🔗 *Python • Machine Learning • Data Analysis*
+A predictive system built with Python and Jupyter Notebook using real healthcare datasets  
+🔗 https://github.com/akashrajput005/Multiple-Disease-Prediction-System :contentReference[oaicite:1]{index=1}
 
-🔗 Repo: https://github.com/akashrajput005/Multiple-Disease-Prediction-System
+**Tech:** Python | ML Logic | Data preprocessing
 
----
-
-### 📊 grocery-visual
-Retail analytics visualization using Python — making sense of outlets, sales, and items.  
-🔗 *Python • Data Visualization • Business Insight*
-
-🔗 Repo: https://github.com/akashrajput005/grocery-visual
+**Why it’s important:** Shows machine-learning pipeline skills and real data handling.
 
 ---
 
-### 💡 Logistics & Shipping Rate Scripts
-Python scripts built to compute and analyze logistics and shipping rates.  
-🔗 *Python • Practical Scripting*
+### 🔬 LiverSegNet *(if this is your repo — you mentioned it)*
+A deep-learning based liver segmentation model — likely built with Python and medical imaging data.  
+🔗 https://github.com/akashrajput005/LiverSegNet *(confirm repository link)*
 
-🔗 Repo: https://github.com/akashrajput005/LogisticsShippingRates
+**Tech:** Python | Deep Learning | Image segmentation
 
----
-
-## 📌 Best Practices You’ll See Here
-✔ Meaningful commit messages  
-✔ Project README files with clear instructions  
-✔ Real analytics & problem-solving code
+**Why it matters:** Demonstrates advanced neural network implementation and real-world application.
 
 ---
 
-## 📫 Let’s Connect
+## 🧰 Other Notable Work
 
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-handle  
-📧 Email: your.email@example.com
+### 📦 LogisticsShippingRates  
+Utility Python scripts for computing and analyzing shipping & logistics rate logic.  
+🔗 https://github.com/akashrajput005/LogisticsShippingRates :contentReference[oaicite:2]{index=2}
+
+**Tech:** Python scripting
 
 ---
+
+## 🧠 Projects Soon to Expand
+
+📌 **grocery-visual** — Retail dataset visualization (moved to last by request).  
+🔗 https://github.com/akashrajput005/grocery-visual :contentReference[oaicite:3]{index=3}
+
+**Tech:** Python | Data Visualization
+
+**Note:** This is a valuable analytics project — keep it — but highlight it after your stronger repos.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashrajput005&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashrajput005&show_icons=true" alt="GitHub Stats" />
 </p>
+
+---
+
+## 📫 Contact
+
+📧 Email: *your.email@example.com*  
+🔗 LinkedIn: *https://www.linkedin.com/in/your-link*
+
+---
+
