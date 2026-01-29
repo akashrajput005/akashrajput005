@@ -63,11 +63,17 @@ Utility Python scripts for computing and analyzing shipping & logistics rate log
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Development Activity Snapshot
+
+- 🧠 **Consistent contributor** with 100+ commits in the past year  
+- 🔧 Actively involved in **issue tracking & pull requests**  
+- 🤝 Experience collaborating across multiple repositories  
+- 📈 Focused on learning, iteration, and real-world problem solving  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashrajput005&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashrajput005&show_icons=true&hide=stars&rank_icon=github" />
 </p>
+
 
 ---
 
