@@ -32,7 +32,7 @@ A predictive system built with Python and Jupyter Notebook using real healthcare
 
 ---
 
-### 🔬 LiverSegNet *(if this is your repo — you mentioned it)*
+### 🔬 LiverSegNet
 A deep-learning based liver segmentation model — likely built with Python and medical imaging data.  
 🔗 https://github.com/akashrajput005/LiverSegNet *(confirm repository link)*
 
