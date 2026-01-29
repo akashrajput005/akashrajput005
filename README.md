@@ -79,8 +79,9 @@ Utility Python scripts for computing and analyzing shipping & logistics rate log
 
 ## 📫 Contact
 
-📧 Email: akashsingh032004@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/akash-kumar-76910ak
+📧 Email: [akashsingh032004@gmail.com](mailto:akashsingh032004@gmail.com?subject=GitHub%20Profile%20Inquiry)  
+🔗 LinkedIn: https://www.linkedin.com/in/akash-kumar-76910ak
+
 
 ---
 
