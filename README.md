@@ -32,10 +32,10 @@ A predictive system built with Python and Jupyter Notebook using real healthcare
 
 ---
 
-###🔬 LiverSegNet
+🔬 **LiverSegNet**
 A **hybrid surgical perception system** for real-time liver and gallbladder segmentation in laparoscopic videos, combining deep learning with deterministic and heuristic safety logic.
 
-🔗 **Repository:** [https://github.com/akashrajput005/LiverSegNet](https://github.com/akashrajput005/LiverSegNet)
+🔗 [https://github.com/akashrajput005/LiverSegNet](https://github.com/akashrajput005/LiverSegNet)
 
 **Tech:** Python | Deep Learning | Medical Image Segmentation | Clinical Geometry
 
